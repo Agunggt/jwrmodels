@@ -1,16 +1,16 @@
 [
   {
-    "id": "boxkimochi",
+    "id": "boxkim",
     "name": "BOX KIMOCHI",
     "category": "Truss",
-    "url": "https://raw.githubusercontent.com/jawir-lighting/jawir-assets/main/models/truss_box.glb",
+    "url": "https://raw.githubusercontent.com/jawir-lighting/jawir-assets/main/models/boxkim.glb",
     "format": "glb"
   },
   {
     "id": "t24",
     "name": "T24",
     "category": "Truss",
-    "url": "https://raw.githubusercontent.com/.../truss_t24.glb",
+    "url": "https://raw.githubusercontent.com/.../tasso.glb",
     "format": "glb"
   }
 ]
