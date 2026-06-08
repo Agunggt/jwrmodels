@@ -3,14 +3,14 @@
     "id": "boxkim",
     "name": "BOX KIMOCHI",
     "category": "Truss",
-    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/models/boxkim.glb",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/boxkim.glb",
     "format": "glb"
   },
   {
     "id": "t24",
     "name": "T24",
     "category": "Truss",
-    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/models/tasso.glb",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/tasso.glb",
     "format": "glb"
   }
 ]
