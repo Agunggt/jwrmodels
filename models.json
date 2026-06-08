@@ -12,8 +12,7 @@
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/tasso.glb",
     "format": "glb"
-  }
-  
+  },
   {
     "id": "riging1.glb",
     "name": "Riging 1",
@@ -27,8 +26,7 @@
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/riging1_1.glb",
     "format": "glb"
-  }
-  
+  },
   {
     "id": "clabyijul.glb",
     "name": "BOX CLA",
