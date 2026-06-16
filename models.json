@@ -40,5 +40,19 @@
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/supalibyijul.glb",
     "format": "glb"
+  },
+  {
+    "id": "kara.glb",
+    "name": "BOX KARA",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/kara.glb",
+    "format": "glb"
+  },
+  {
+    "id": "t24.glb",
+    "name": "BOX T24",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/t24.glb",
+    "format": "glb"
   }
 ]
