@@ -54,5 +54,12 @@
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/t24.glb",
     "format": "glb"
+  },
+  {
+  "id": "tron-panel",
+  "name": "Tron Panel (Video Wall)",
+  "category": "LED",
+  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/tron-panel.glb",
+  "format": "glb"
   }
 ]
