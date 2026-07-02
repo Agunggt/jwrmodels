@@ -16,14 +16,14 @@
   {
     "id": "riging1.glb",
     "name": "Riging 1",
-    "category": "Rigging",
+    "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/riging1.glb",
     "format": "glb"
   },
   {
     "id": "riging1_1.glb",
     "name": "Riging 2",
-    "category": "Rigging",
+    "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/riging1_1.glb",
     "format": "glb"
   },
@@ -58,7 +58,7 @@
   {
   "id": "ring_kotak_4besi_abuabu_noanim.glb",
   "name": "rigging bulat",
-  "category": "Rigging",
+  "category": "Truss",
   "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/ring_kotak_4besi_abuabu_noanim.glb",
   "format": "glb"
   }
