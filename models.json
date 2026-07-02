@@ -55,6 +55,19 @@
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/t24.glb",
     "format": "glb"
   },
+   {
+    "id": "BOX_KRUWEK.glb",
+    "name": "BOX KRUWEK",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/BOX_KRUWEK.glb",
+    "format": "glb"
+  }, {
+    "id": "BOX_KRUWEK_TWIT.glb",
+    "name": "BOX KRUWEK TWIT",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/BOX_KRUWEK_TWIT.glb",
+    "format": "glb"
+  },
   {
   "id": "ring_kotak_4besi_abuabu_noanim.glb",
   "name": "rigging bulat",
