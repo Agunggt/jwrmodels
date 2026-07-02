@@ -61,7 +61,8 @@
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/BOX_KRUWEK.glb",
     "format": "glb"
-  }, {
+  }, 
+  {
     "id": "BOX_KRUWEK_TWIT.glb",
     "name": "BOX KRUWEK TWIT",
     "category": "Truss",
