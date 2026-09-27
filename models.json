@@ -75,5 +75,12 @@
   "category": "Truss",
   "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/rigging_1_lingkaran_abu_abu.glb",
   "format": "glb"
+  },
+  {
+  "id": "CLA182",
+  "name": "CLA HITAM",
+  "category": "Truss",
+  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/clahitam.glb",
+  "format": "glb"
   }
 ]
