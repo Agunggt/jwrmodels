@@ -89,5 +89,12 @@
   "category": "Truss",
   "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/clahitam_hijau_tua_semua_dalam.glb",
   "format": "glb"
+  },
+  {
+  "id": "PRA18V1",
+  "name": "PRATHEL 181",
+  "category": "Truss",
+  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/Box_Parathel_Single_18_Phaselab (3).glb",
+  "format": "glb"
   }
 ]
