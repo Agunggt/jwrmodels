@@ -55,13 +55,13 @@
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/t24.glb",
     "format": "glb"
   },
-   {
+  {
     "id": "BOX_KRUWEK.glb",
     "name": "BOX KRUWEK",
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/BOX_KRUWEK.glb",
     "format": "glb"
-  }, 
+  },
   {
     "id": "BOX_KRUWEK_TWIT.glb",
     "name": "BOX KRUWEK TWIT",
@@ -70,31 +70,45 @@
     "format": "glb"
   },
   {
-  "id": "ring_kotak_4besi",
-  "name": "rigging bulat",
-  "category": "Truss",
-  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/rigging_1_lingkaran_abu_abu.glb",
-  "format": "glb"
+    "id": "ring_kotak_4besi",
+    "name": "rigging bulat",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/rigging_1_lingkaran_abu_abu.glb",
+    "format": "glb"
   },
   {
-  "id": "CLA182",
-  "name": "CLA HITAM",
-  "category": "Truss",
-  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/clahitam.glb",
-  "format": "glb"
+    "id": "CLA182",
+    "name": "CLA HITAM",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/clahitam.glb",
+    "format": "glb"
   },
   {
-  "id": "CLA182V2",
-  "name": "CLA HIJAU",
-  "category": "Truss",
-  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/clahitam_hijau_tua_semua_dalam.glb",
-  "format": "glb"
+    "id": "CLA182V2",
+    "name": "CLA HIJAU",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/clahitam_hijau_tua_semua_dalam.glb",
+    "format": "glb"
   },
   {
-  "id": "PRA18V1",
-  "name": "PRATHEL 181",
-  "category": "Truss",
-  "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/Box_Parathel_Single_18_Phaselab (3).glb",
-  "format": "glb"
+    "id": "PRA18V1",
+    "name": "PRATHEL 181",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/Box_Parathel_Single_18_Phaselab (3).glb",
+    "format": "glb"
+  },
+  {
+    "id": "rigingsegi8",
+    "name": "Riging Segi 8",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/rigingsegi8.glb",
+    "format": "glb"
+  },
+  {
+    "id": "bulatmini",
+    "name": "Riging Bulat Mini",
+    "category": "Truss",
+    "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/bulatmini.glb",
+    "format": "glb"
   }
 ]
