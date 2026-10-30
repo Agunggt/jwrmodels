@@ -110,5 +110,6 @@
     "category": "Truss",
     "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/bulatmini.glb",
     "format": "glb"
-  }
+  },
+  { "id": "moving_head_beam", "name": "Moving Head Beam", "category": "LIGHT", "url": "https://raw.githubusercontent.com/Agunggt/jwrmodels/main/models/moving_head_beam_high_poly.glb", "format": "glb" }
 ]
